@@ -29,7 +29,7 @@ Technologies: python,twilio API,react-native,nodejs,MYSQL
 If there is time still left after the completion of first 2 components,then we will proceed to the third component of the application.
 
 ### DamageController
-We will build a single platform for the victims,that will collect donations,when the money reaches certain amount,partition the money received into various areas like for water bottles,food,medicines,sanitary napkins etc ,automatically purchase those stuffs from the online vendors and distribute them to the flood affected locations.
+We will build a single automated platform for the victims to fasten the restoration process,that will collect donations,when the money reaches certain amount,partition the money received into various areas like for water bottles,food,medicines,sanitary napkins etc ,automatically purchase those stuffs from the online vendors and distribute them to the flood affected locations.
 
 Technologies: react-native,nodejs,MySQL 
 
